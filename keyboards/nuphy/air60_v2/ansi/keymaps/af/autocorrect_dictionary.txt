@@ -1,1 +1,4 @@
 ifnra -> infra
+isntead -> instead
+:comit: -> commit
+:commt: -> commit
